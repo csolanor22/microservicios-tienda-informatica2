@@ -17,41 +17,41 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
 
 <div align="center">
   <h5>Aplicacion</h5>
-  <img src="/images/Aplicacion.png" width="750" alt="Aplicacion">
+  <img src="/images/images/Aplicacion.png" width="750" alt="Aplicacion">
   <h5>Contribucion de objetivos</h5>
-  <img src="/images/Contribucion_de_objetivos.png" width="550" alt="Contribucion de objetivos">
+  <img src="/images/images/Contribucion_de_objetivos.png" width="550" alt="Contribucion de objetivos">
   <h5>Cooperacion de Aplicacion</h5>
-  <img src="/images/Cooperacion_de_Aplicacion.png" width="750" alt="Cooperacion de Aplicacion">
+  <img src="/images/images/Cooperacion_de_Aplicacion.png" width="750" alt="Cooperacion de Aplicacion">
   <h5>Cooperacion de Proceso de Negocio</h5>
-  <img src="/images/CooperacionProcesoNegocio.png" width="550" alt="Cooperacion de Proceso de Negocio">
+  <img src="/images/images/CooperacionProcesoNegocio.png" width="550" alt="Cooperacion de Proceso de Negocio">
   <h5>Estructura de aplicacion</h5>
-  <img src="/images/Estructura_de_aplicacion.png" width="550" alt="Estructura de aplicacion">
+  <img src="/images/images/Estructura_de_aplicacion.png" width="550" alt="Estructura de aplicacion">
   <h5>Estructurade la Informacion</h5>
-  <img src="/images/EstructuraInformacion.png" width="650" alt="Estructurade la Informacion">
+  <img src="/images/images/EstructuraInformacion.png" width="650" alt="Estructurade la Informacion">
   <h5>Funciones del negocio</h5>
-  <img src="/images/Funciones_del_negocio.png" width="550" alt="Funciones del negocio">
+  <img src="/images/images/Funciones_del_negocio.png" width="550" alt="Funciones del negocio">
   <h5>Infraestructura</h5>
-  <img src="/images/Infraestructura.png" width="550" alt="Infraestructura">
+  <img src="/images/images/Infraestructura.png" width="550" alt="Infraestructura">
   <h5>Motivacion</h5>
-  <img src="/images/Motivacion.png" width="650" alt="Motivacion">
+  <img src="/images/images/Motivacion.png" width="650" alt="Motivacion">
   <h5>Organizacion de la implementacion</h5>
-  <img src="/images/Organizacion_implementacion.png" width="650" alt="Organizacion de la implementacion">
+  <img src="/images/images/Organizacion_implementacion.png" width="650" alt="Organizacion de la implementacion">
   <h5>Procesos de Negocios</h5>
-  <img src="/images/ProcesosNegocios.png" width="550" alt="Procesos de Negocios">
+  <img src="/images/images/ProcesosNegocios.png" width="550" alt="Procesos de Negocios">
   <h5>Producto</h5>
-  <img src="/images/Producto.png" width="550" alt="Producto">
+  <img src="/images/images/Producto.png" width="550" alt="Producto">
   <h5>Punto de Vista</h5>
-  <img src="/images/PuntoVista.png" width="550" alt="Punto de Vista">
+  <img src="/images/images/PuntoVista.png" width="550" alt="Punto de Vista">
   <h5>Realizacion de Requerimientos</h5>
-  <img src="/images/RealizacionRequerimientos.png" width="550" alt="Realizacion de Requerimientos">
+  <img src="/images/images/RealizacionRequerimientos.png" width="550" alt="Realizacion de Requerimientos">
   <h5>Realizacion del Servicio</h5>
-  <img src="/images/RealizacionServicio.png" width="650" alt="Realizacion del Servicio">
+  <img src="/images/images/RealizacionServicio.png" width="650" alt="Realizacion del Servicio">
   <h5>Resumen de Capas</h5>
-  <img src="/images/ResumenCapas.png" width="650" alt="Resumen de Capas">
+  <img src="/images/images/ResumenCapas.png" width="650" alt="Resumen de Capas">
   <h5>Uso de la Aplicacion</h5>
-  <img src="/images/UsoAplicacion.png" width="550" alt="Uso de la Aplicacion">
+  <img src="/images/images/UsoAplicacion.png" width="550" alt="Uso de la Aplicacion">
   <h5>Uso de Infraestructura</h5>
-  <img src="/images/UsoInfraestructura.png" width="700" alt="Uso de Infraestructura">
+  <img src="/images/images/UsoInfraestructura.png" width="700" alt="Uso de Infraestructura">
 </div>
 
 ### MicroServicios en Python 
