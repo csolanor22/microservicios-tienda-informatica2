@@ -38,5 +38,25 @@ def get_clientes():
     )
     return response
 
+@app.route("/clientes/<nombre>")
+def get_cliente(nombre):
+    ret = []
+    res = Clientes.query.all()
+    for cliente in res:
+        if cliente.nombre == nombre:
+            ret.append(
+                {
+                    'cliente': cliente.nombre,
+                    'direccion': cliente.direccion,
+                    'telefono': cliente.telefono
+                }
+            )
+    response = app.response_class(
+        response=json.dumps(ret),
+        status=200,
+        mimetype='application/json'
+    )
+    return response
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0',debug=True)

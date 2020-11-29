@@ -34,7 +34,27 @@ def get_productos():
         mimetype='application/json'
     )
     return response
-    
+
+@app.route("/productos/<nombre>")
+def get_producto(nombre):
+    ret = []
+    res = Productos.query.all()
+    for producto in res:
+        if producto.nombre == nombre:
+            ret.append(
+                {
+                    'producto': producto.nombre ,
+                    'precio': producto.precio
+                }
+            )
+            break
+
+    response = app.response_class(
+        response=json.dumps(ret),
+        status=200,
+        mimetype='application/json'
+    )
+    return response
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0',debug=True)
+    app.run(host='0.0.0.0', debug=True)
